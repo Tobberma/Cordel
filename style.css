@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: 'fonte';
-    src: url('font/fonte.ttf') format('truetype');
+    src: url('fonte/fonte.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'passio';
-    src: url('font/passio.ttf') format('truetype');
+    src: url('fonte/passio.ttf') format('truetype');
 }
 
 * {
